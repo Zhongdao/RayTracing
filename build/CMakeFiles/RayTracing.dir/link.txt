@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -fno-rtti -fopenmp -fpermissive    CMakeFiles/RayTracing.dir/src/main.cpp.o  -o bin/RayTracing -rdynamic -lopencv_core /home/wangzd/mylib/opencv/libopencv_highgui.so -Wl,-rpath,/home/wangzd/mylib/opencv 
